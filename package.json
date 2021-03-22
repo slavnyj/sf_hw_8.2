@@ -1,0 +1,25 @@
+{
+  "name": "sf_hw_8.2",
+  "version": "1.0.0",
+  "description": "Package as part as homework on SF platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavnyj/sf_hw_8.2.git"
+  },
+  "keywords": [
+    "skillfactory"
+  ],
+  "author": "Alexandr Ivanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavnyj/sf_hw_8.2/issues"
+  },
+  "homepage": "https://github.com/slavnyj/sf_hw_8.2#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
